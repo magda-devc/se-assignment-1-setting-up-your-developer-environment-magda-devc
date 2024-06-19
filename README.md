@@ -77,6 +77,9 @@ A python extension in vscode is necessary for you to run python code in your mac
 - Front-End Framework. I installed the bootstrap to use in styling my websites, and tried to use it in a html file. Also had django which is a python framework used to create websites using python.
 
 
+
+- The github repository link https://github.com/magda-devc/django_ecommerce.git
+
 #Evaluation Criteria:**
 - Completeness and accuracy of setup documentation.
 - Effectiveness of version control implementation.
