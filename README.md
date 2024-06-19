@@ -78,7 +78,7 @@ A python extension in vscode is necessary for you to run python code in your mac
 
 
 
-- The github repository link https://github.com/magda-devc/django_ecommerce.git
+- The github repository containing the gitignore file. Link https://github.com/magda-devc/gitIgnoreTest.git
 
 #Evaluation Criteria:**
 - Completeness and accuracy of setup documentation.
